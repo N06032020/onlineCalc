@@ -1,0 +1,14 @@
+.col-right {
+  background-color: darkcyan;
+  color: white;
+}
+
+input {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+
+.summary-item {
+  margin-bottom: 20px;
+}
