@@ -5,8 +5,7 @@
 
 input {
   padding: 10px;
-  border-radius: 10px;
-  border: 1px solid gray;
+  border: none;
 }
 
 .summary-item {
@@ -15,6 +14,11 @@ input {
 
 .param__details {
   margin-bottom: 50px;
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+.param__details--error {
+  border-color: red;
 }
 
 .param__limits {
