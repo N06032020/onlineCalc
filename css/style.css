@@ -12,3 +12,12 @@ input {
 .summary-item {
   margin-bottom: 20px;
 }
+
+.param__details {
+  margin-bottom: 50px;
+}
+
+.param__limits {
+  display: flex;
+  justify-content: space-between;
+}
